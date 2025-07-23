@@ -1,0 +1,2 @@
+db.auth("root", "root")
+use admin
